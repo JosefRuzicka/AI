@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/charlie/Projects/TRAB/NeuralNetwork-IA/build",
+  "command": "/usr/bin/clang++  -I/Users/charlie/Projects/TRAB/NeuralNetwork-IA/include -I/Users/charlie/Projects/TRAB/NeuralNetwork-IA/src -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14 -o CMakeFiles/neuron.dir/main.cpp.o -c /Users/charlie/Projects/TRAB/NeuralNetwork-IA/main.cpp",
+  "file": "/Users/charlie/Projects/TRAB/NeuralNetwork-IA/main.cpp"
+},
+{
+  "directory": "/Users/charlie/Projects/TRAB/NeuralNetwork-IA/build",
+  "command": "/usr/bin/clang++  -I/Users/charlie/Projects/TRAB/NeuralNetwork-IA/include -I/Users/charlie/Projects/TRAB/NeuralNetwork-IA/src -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14 -o CMakeFiles/neuron.dir/src/Matrix.cpp.o -c /Users/charlie/Projects/TRAB/NeuralNetwork-IA/src/Matrix.cpp",
+  "file": "/Users/charlie/Projects/TRAB/NeuralNetwork-IA/src/Matrix.cpp"
+},
+{
+  "directory": "/Users/charlie/Projects/TRAB/NeuralNetwork-IA/build",
+  "command": "/usr/bin/clang++  -I/Users/charlie/Projects/TRAB/NeuralNetwork-IA/include -I/Users/charlie/Projects/TRAB/NeuralNetwork-IA/src -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++14 -o CMakeFiles/neuron.dir/src/NeuralNetwork.cpp.o -c /Users/charlie/Projects/TRAB/NeuralNetwork-IA/src/NeuralNetwork.cpp",
+  "file": "/Users/charlie/Projects/TRAB/NeuralNetwork-IA/src/NeuralNetwork.cpp"
+}
+]
